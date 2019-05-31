@@ -7,6 +7,7 @@ categories:
 - C#
 - Aop
 - Transaction
+- Mysql
 type: "categories"
 comments: false
 ---
